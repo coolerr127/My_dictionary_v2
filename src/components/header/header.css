@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Oswald&display=swap');
+
+.header {
+    background-image: url(./img/bg-dark-0003.gif);
+    padding-bottom: 0%;
+    box-shadow: 0 0 70px rgb(0, 0, 0);
+	padding: 5vh 0 5vh 0;
+}
+
+.header-wrapper {
+	position: relative;
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.logo {
+    color: rgb(84, 41, 110) !important;
+    text-shadow: 0px 0px 10px rgba(190, 144, 219, 0.26);
+    font-family: 'Audiowide', sans-serif;
+	font-size: 2rem;
+}
